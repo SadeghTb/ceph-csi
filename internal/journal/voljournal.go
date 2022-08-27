@@ -107,7 +107,7 @@ single entity modifying the related omaps for a given VolName.
 */
 
 const (
-	defaultVolumeNamingPrefix   string = "csi-vol-"
+	defaultVolumeNamingPrefix   string = "volume-"
 	defaultSnapshotNamingPrefix string = "csi-snap-"
 )
 
